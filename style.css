@@ -1,0 +1,21 @@
+/* Palette de couleurs
+#BB6464
+#C8F2EF
+*/
+
+#rectangle{
+    background-color: #C8F2EF ;
+    border-radius: 4px;
+    width: 400px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+    /*Animation*/
+    transform: background-color 1s;
+}
+
+#rectangle.newColor{
+    background-color: #BB6464;
+}
+
